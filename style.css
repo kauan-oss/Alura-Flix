@@ -1,4 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(5, 87, 5);
+}
+
 header{
     background-color: green;
-    color: ;
+    color: rgb(20, 211, 3);
+    font-size: 25px;
+    border-bottom: solid 2px rgb(52, 52, 172);
+    padding: 20px;
 }
