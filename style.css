@@ -22,10 +22,11 @@ header{
 }
 
 img{
-    height: 500px;
+    height: 200px;
 }
 
 .categoria_videos{
     display: flex;
     overflow-x: auto;
+    gap: 10px;
 }
