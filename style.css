@@ -16,3 +16,7 @@ header{
     justify-content: center;
     background-color: aquamarine;
 }
+
+.chamada_texto{
+    margin-right: 5px;
+}
